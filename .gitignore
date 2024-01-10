@@ -1,0 +1,5 @@
+# Ignore meli_challenge virtual env directory
+meli_challenge/
+
+# Ignore __pycache__ directory
+__pycache__/
